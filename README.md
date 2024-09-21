@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vilfride! <a>IT & Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Vilfride! <a>Passionate IT & Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 My Projects:</h2>
 
