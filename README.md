@@ -4,7 +4,7 @@
 
 - <b>Azure / Cloud Cybersecurity Projects (AlgoExpert)</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/vlutumba/Cloud-SOC)
-- <b>[STIG Remediation Project](https://github.com/vlutumba/DISA-STIG-Remediations/tree/main/STIG)</b>
+- [STIG Remediation Project](https://github.com/vlutumba/DISA-STIG-Remediations/tree/main/STIG)
 - <b>PowerShell</b>
 
 
