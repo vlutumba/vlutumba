@@ -1,10 +1,9 @@
 <h1>Vilfride Lutumba's<a>IT & Cybersecurity Project Portfolio</a></h1>
 
-<h2>👨‍💻 My Projects:</h2>
+<h2>⚠️ Vulnerability Management Projects:</h2>
 
-- <b>Azure / Cloud Cybersecurity Projects (AlgoExpert)</b>
-  - [Creating a Live SOC / Honeynet in Azure](https://github.com/vlutumba/Cloud-SOC)
-  - [STIG Remediation Project](https://github.com/vlutumba/DISA-STIG-Remediations/tree/main/STIG)
+- <b>[Creating a Live SOC / Honeynet in Azure](https://github.com/vlutumba/Cloud-SOC)</b>
+- <b>[STIG Remediation Project](https://github.com/vlutumba/DISA-STIG-Remediations/tree/main/STIG)</b>
 
 
 
